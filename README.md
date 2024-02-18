@@ -1,7 +1,7 @@
 # 2023.11.06
 
 ## 網址
-https://peterjackson0107.github.io/20231106-loginPagePractice/
+https://peterjackson0107.github.io/20231106-loginPageAndSignUpPage/
 
 ## 專案技術
 - HTML
